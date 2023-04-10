@@ -1,0 +1,17 @@
+.descriptionAtmosphericTemplate {
+  font-weight: bold;
+  max-inline-size: 624px;
+  display: flex;
+  flex-direction: column;
+}
+
+.descriptionAtmospheric {
+  display: flex;
+  align-items: center;
+  padding-bottom: 5px;
+}
+
+.descriptionAtmospheric span {
+  text-align: left;
+  flex: 1;
+}
